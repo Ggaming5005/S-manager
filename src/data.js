@@ -3641,19 +3641,19 @@ export const teachers = [
         },
         {
           lesson: 2,
-          class: "free.10A",
+          class: "free",
         },
         {
           lesson: 3,
-          class: "12A",
+          class: "10A",
         },
         {
           lesson: 4,
-          class: "8A",
+          class: "12A",
         },
         {
           lesson: 5,
-          class: "9A",
+          class: "8A",
         },
         {
           lesson: 6,
@@ -3661,7 +3661,7 @@ export const teachers = [
         },
         {
           lesson: 7,
-          class: "",
+          class: "9A",
         },
       ],
     },
@@ -5847,7 +5847,7 @@ export const teachers = [
   {
     id: 36,
     name: "მუხაშვილი",
-    subject: NaN,
+    subject: "Music",
     isBeginningTeacher: false,
     teachingHours: 8,
     daysOff: ["Tuesday", "Friday"],
@@ -6348,7 +6348,7 @@ export const teachers = [
   {
     id: 39,
     name: "კუჭავა",
-    subject: NaN,
+    subject: "Georgian",
     isBeginningTeacher: true,
     teachingHours: 20,
     daysOff: [],
@@ -6515,7 +6515,7 @@ export const teachers = [
   {
     id: 40,
     name: "ჩადუნელი",
-    subject: NaN,
+    subject: "Georgian",
     isBeginningTeacher: true,
     teachingHours: 18,
     daysOff: [],
@@ -6682,7 +6682,7 @@ export const teachers = [
   {
     id: 41,
     name: "გრძელიძე",
-    subject: NaN,
+    subject: "Georgian",
     isBeginningTeacher: true,
     teachingHours: 26,
     daysOff: [],
@@ -6849,7 +6849,7 @@ export const teachers = [
   {
     id: 42,
     name: "გოგესაშვილი",
-    subject: NaN,
+    subject: "Georgian",
     isBeginningTeacher: true,
     teachingHours: 18,
     daysOff: [],
@@ -7016,7 +7016,7 @@ export const teachers = [
   {
     id: 43,
     name: "ქრისტესიაშვილი",
-    subject: NaN,
+    subject: "Mathematics",
     isBeginningTeacher: true,
     teachingHours: 22,
     daysOff: [],
@@ -7183,7 +7183,7 @@ export const teachers = [
   {
     id: 44,
     name: "პაპინაშვილი",
-    subject: NaN,
+    subject: "Mathematics",
     isBeginningTeacher: true,
     teachingHours: 25,
     daysOff: [],
@@ -7350,7 +7350,7 @@ export const teachers = [
   {
     id: 45,
     name: "ქსოვრელი",
-    subject: NaN,
+    subject: "Mathematics",
     isBeginningTeacher: true,
     teachingHours: 10,
     daysOff: [],
@@ -8018,7 +8018,7 @@ export const teachers = [
   {
     id: 49,
     name: "გოგნელაშვილი",
-    subject: NaN,
+    subject: "Sports",
     isBeginningTeacher: true,
     teachingHours: 14,
     daysOff: [],
